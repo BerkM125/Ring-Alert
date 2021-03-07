@@ -14,6 +14,6 @@ The source code was made to be adjustable and manipulated to suit different need
 
 ## Ring Alert Schematics
 ### Ring Alert Reciever:
-![schem1](./Designs/schematic1.png)
+![schem1](./Designs/schematic1.PNG)
 ### Ring Alert Transmitter:
-![schem2](./Design/schematic3.png)
+![schem2](./Design/schematic3.PNG)
